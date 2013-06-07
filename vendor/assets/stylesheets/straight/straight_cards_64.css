@@ -1,5 +1,5 @@
 .cc_64 .straight-card {
-    background: url(/assets/payment/straight/straight_cards_64.png) no-repeat top left;
+    background: url(/payment/straight/straight_cards_64.png) no-repeat top left;
 }
 
 .straight_card.2checkout{ background-position: 0 0; width: 102px; height: 64px; } 
