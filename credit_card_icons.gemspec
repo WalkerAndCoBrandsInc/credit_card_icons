@@ -309,7 +309,7 @@ Gem::Specification.new do |s|
     "vendor/assets/images/payment/straight/straight_cards_32.png",
     "vendor/assets/images/payment/straight/straight_cards_64.png",
     "vendor/assets/stylesheets/credit_cards_24.css",
-    "vendor/assets/stylesheets/credit_cards_32.css",
+    "vendor/assets/stylesheets/credit_cards_32.css.scss",
     "vendor/assets/stylesheets/credit_cards_default.css",
     "vendor/assets/stylesheets/curved/curved_cards_128.css",
     "vendor/assets/stylesheets/curved/curved_cards_32.css",
