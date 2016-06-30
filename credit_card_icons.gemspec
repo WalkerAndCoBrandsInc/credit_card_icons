@@ -6,12 +6,12 @@
 
 Gem::Specification.new do |s|
   s.name = "credit_card_icons"
-  s.version = "0.1.2"
+  s.version = "0.1.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
-  s.authors = ["Kristian Mandrup"]
-  s.date = "2015-06-02"
+  s.authors = ["Kristian Mandrup", "Joseph Nguyen"]
+  s.date = "2016-06-30"
   s.description = "Credit Card icons ready for use with Rails asset pipeline"
   s.email = "kmandrup@gmail.com"
   s.extra_rdoc_files = [
@@ -311,7 +311,7 @@ Gem::Specification.new do |s|
     "vendor/assets/images/payment/straight/straight_cards_32.png",
     "vendor/assets/images/payment/straight/straight_cards_64.png",
     "vendor/assets/stylesheets/credit_cards_24.css",
-    "vendor/assets/stylesheets/credit_cards_32.css.scss",
+    "vendor/assets/stylesheets/credit_cards_32.scss",
     "vendor/assets/stylesheets/credit_cards_default.css",
     "vendor/assets/stylesheets/curved/curved_cards_128.css",
     "vendor/assets/stylesheets/curved/curved_cards_32.css",
@@ -349,4 +349,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<simplecov>, [">= 0"])
   end
 end
-
